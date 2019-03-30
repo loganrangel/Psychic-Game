@@ -1,0 +1,10 @@
+body, html {
+    background-image: url(../images/bananas.png);
+}
+
+.main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10% 30% 10% 30%;
+    text-align: center;
+    background-image: url(../images/crossword.png);
+}
